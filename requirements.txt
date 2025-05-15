@@ -6,3 +6,4 @@ pyzbar
 gunicorn
 opencv-python-headless
 gunicorn
+libzbar0
