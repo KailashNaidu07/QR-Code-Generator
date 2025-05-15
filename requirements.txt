@@ -3,3 +3,4 @@ qrcode[pil]
 pyzbar
 pillow
 gunicorn
+flask
