@@ -1,6 +1,6 @@
+Flask
 qrcode
 qrcode[pil]
+Pillow
 pyzbar
-pillow
 gunicorn
-flask
