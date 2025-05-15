@@ -2,3 +2,4 @@ qrcode
 qrcode[pil]
 pyzbar
 pillow
+gunicorn
